@@ -1,7 +1,7 @@
 [Read in German / Auf Deutsch lesen](README-de.md)
 ***
 
-<div align="center">
+<div align="left">
 
 # Project: Highly Available 3-Tier Architecture on Azure  
 ### Implementing a Horizontally Auto-Scaled and Secure Cloud Infrastructure with Qualys VMDR
