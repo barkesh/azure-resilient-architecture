@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Projekt: Hochverfügbare 3-Tier-Architektur auf Azure
 ### Implementierung einer horizontal autoskalierten und sicheren Cloud-Infrastruktur mit Qualys VMDR
