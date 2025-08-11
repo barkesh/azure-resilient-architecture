@@ -1,3 +1,5 @@
+[Read in German / Auf Deutsch lesen](README-de.md)
+***
 
 <div align="center">
 
