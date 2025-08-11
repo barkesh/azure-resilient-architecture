@@ -1,3 +1,6 @@
+[Read in English / Auf Englisch lesen](README.md)
+***
+
 <div align="left">
 
 # Projekt: Hochverfügbare 3-Tier-Architektur auf Azure
