@@ -2,7 +2,7 @@
 ### A Technical Summary of a Secure and Auto-Scaled Cloud Infrastructure Build
 
 <p>
-	<a href="#"><img src="https://img.shields.io/badge/Status-Completed-28a745?style=for-the-badge" alt="Project Status: Completed"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Status-Completed-28a745?style=for-the-badge" alt="Project Status: In Progress"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux"></a>
