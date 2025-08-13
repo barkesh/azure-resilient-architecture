@@ -115,4 +115,5 @@ Dieses Projekt ist eine solide Basis. Die nächsten logischen Evolutionsstufen s
 **Alireza Barkesh**
 
 Ein leidenschaftlicher und zielstrebiger Softwareentwickler mit einem starken Fokus auf Backend-Technologien und Cybersicherheit.
+
 [Mein LinkedIn Profil](https://www.linkedin.com/in/alireza-barkesh-a0a439249) | [Mein GitHub Profil](https://github.com/barkesh)
