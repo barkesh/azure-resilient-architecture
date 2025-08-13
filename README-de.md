@@ -21,8 +21,6 @@
 
 Dieses Repository dokumentiert die praktische Umsetzung einer robusten, skalierbaren und sicheren 3-Tier-Anwendungsarchitektur. Das gesamte Projekt wurde auf **Microsoft Azure** aufgebaut und demonstriert Kernkompetenzen in den Bereichen Cloud Engineering, Netzwerksicherheit und automatisiertes Vulnerability Management.
 
-> **Ziel:** Nicht nur theoretische Konzepte zu verstehen, sondern sie praktisch zu beherrschen. Dieses Projekt ist ein entscheidender Meilenstein auf meiner **3-Jahres-Roadmap (Backend, Security, LLMs)**, die am 28.04.2025 begann.
-
 ---
 
 ### **2. Finale Architektur: Gebaut für Resilienz**
@@ -116,6 +114,5 @@ Dieses Projekt ist eine solide Basis. Die nächsten logischen Evolutionsstufen s
 
 **Alireza Barkesh**
 
-Ein leidenschaftlicher und zielstrebiger Softwareentwickler mit einem starken Fokus auf Backend-Technologien und Cybersicherheit. Ich verfolge aktiv eine anspruchsvolle 3-Jahres-Lern-Roadmap, um tiefgreifende Expertise an der Schnittstelle von sicherer Softwareentwicklung und moderner Cloud-Infrastruktur aufzubauen.
-
+Ein leidenschaftlicher und zielstrebiger Softwareentwickler mit einem starken Fokus auf Backend-Technologien und Cybersicherheit.
 [Mein LinkedIn Profil](https://www.linkedin.com/in/alireza-barkesh-a0a439249) | [Mein GitHub Profil](https://github.com/barkesh)
