@@ -22,8 +22,6 @@
 
 This repository documents the practical implementation of a robust, scalable, and secure 3-tier application architecture. The entire project was built on **Microsoft Azure** and demonstrates core competencies in **Cloud Engineering**, **Network Security**, and **Automated Vulnerability Management**.
 
-> **Goal:** Not just to understand theoretical concepts but to master them in practice. This project is a key milestone in my **3-Year Learning Roadmap (Backend, Security, LLMs)**, which started on April 28, 2025.
-
 ---
 
 ### **2. Final Architecture: Built for Resilience**
@@ -117,6 +115,6 @@ This project serves as a strong foundation. The next logical evolution steps are
 
 **Alireza Barkesh**  
 
-A passionate and goal-oriented software developer with a strong focus on backend technologies and cybersecurity. I am actively pursuing a challenging 3-year learning roadmap to gain deep expertise at the intersection of secure software development and modern cloud infrastructure.
+A passionate and goal-oriented software developer with a strong focus on backend technologies and cybersecurity.
 
 [My LinkedIn Profile](https://www.linkedin.com/in/alireza-barkesh-a0a439249) | [My GitHub Profile](https://github.com/barkesh)
