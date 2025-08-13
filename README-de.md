@@ -87,29 +87,6 @@ graph TD
 
 ---
 
-### **5. Projekt-Roadmap: Von Manuell zu Automatisiert**
-
-Dieses Projekt ist eine solide Basis. Die nächsten logischen Evolutionsstufen sind:
-
--   [x] **Phase 1: Manuelles Setup & Validierung (Abgeschlossen)**
-    -   Aufbau der gesamten Infrastruktur über das Azure Portal.
-    -   Validierung der Netzwerkregeln, Load Balancer und Auto-Scaling-Funktion durch Lasttests.
-    -   Integration und Validierung des Qualys Cloud Agents.
-
--   [ ] **Phase 2: Infrastructure as Code (IaC)**
-    -   **Ziel:** Das gesamte Setup in **Terraform**-Code überführen.
-    -   **Nutzen:** Vollständige Automatisierung, Versionierung und Reproduzierbarkeit der Umgebung. Dies ist der De-facto-Standard in der Industrie.
-
--   [ ] **Phase 3: DevSecOps & CI/CD**
-    -   **Ziel:** Eine **GitHub Actions Pipeline** erstellen, die bei einem Code-Push automatisch eine neue Anwendungsversion auf den VMSS ausrollt.
-    -   **Nutzen:** "Shift Left" – Sicherheits-Scans (z.B. Container-Scans) direkt in die Pipeline integrieren, um Schwachstellen zu finden, bevor sie die Produktion erreichen.
-
--   [ ] **Phase 4: LLM-Integration**
-    -   **Ziel:** Eine einfache Python-API auf dem App-Tier bereitstellen, die ein LLM für eine spezifische Aufgabe nutzt.
-    -   **Nutzen:** Die Verbindung aller drei Säulen meiner Lern-Roadmap in einem praktischen Projekt.
-
----
-
 ### **Über den Autor**
 
 **Alireza Barkesh**
